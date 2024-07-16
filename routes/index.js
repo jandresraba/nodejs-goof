@@ -1,4 +1,3 @@
-// Importar módulos internos
 const utils = require('../utils');
 
 // Importar módulos externos
